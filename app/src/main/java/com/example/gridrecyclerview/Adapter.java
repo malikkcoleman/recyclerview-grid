@@ -13,7 +13,7 @@ import androidx.recyclerview.widget.RecyclerView;
 import java.util.List;
 
 public class Adapter extends RecyclerView.Adapter<Adapter.ViewHolder> {
-
+    //adding ot git comment.
     List<Integer> names;
     List<Integer> images;
     Context context;
