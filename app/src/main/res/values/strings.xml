@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">GridRecyclerView</string>
+    <string name="adam_ackler">Adam Ackler</string>
+    <string name="mothman">Mothman</string>
+    <string name="wendigo">Wendigo</string>
+    <string name="old_scratch">Old Scratch</string>
+    <string name="borne_from_the_earth">Borne From The Earth</string>
+    <string name="grim_reaper">Grim Reaper</string>
+    <string name="headless_horseman">Headless Horseman</string>
+    <string name="headless_coalminer">Headless Coalminer</string>
+    <string name="hells_gate">Hell\'s Gate</string>
+    <string name="poition_seller">Potion Seller</string>
+    <string name="righteous_reckoning">Righteous Reckoning</string>
+    <string name="zombie_apocalypse">Zombie Apocalypse</string>
+</resources>
